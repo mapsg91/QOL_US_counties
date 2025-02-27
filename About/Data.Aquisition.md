@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 ## Dataset Description
+## Data Collection
+- [City/ZIP/County/FIPS - Quality of Life (US)](https://www.kaggle.com/datasets/zacvaughan/cityzipcountyfips-quality-of-life)
 
 Explain what data you need and why. Be as specific as possible. This will allow the team retrieving the data to focus their efforts and decrease the time to deliver the dataset.
 
